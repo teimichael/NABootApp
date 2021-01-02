@@ -26,3 +26,6 @@ npm run build:prod
 - [NA Boot Web](https://github.com/teimichael/NABootWeb)
 - [NA Boot App](https://github.com/teimichael/NABootApp)
 - [NA Boot Socket](https://github.com/teimichael/NABootSocket)
+
+## Reference
+- https://github.com/PanJiaChen/vue-admin-template
